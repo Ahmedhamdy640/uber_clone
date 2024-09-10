@@ -68,7 +68,7 @@ declare interface GoogleInputProps {
   containerStyle?: string;
   textInputBackgroundColor?: string;
   handlePress: ({
-                  // eslint-disable-next-line prettier/prettier
+    // eslint-disable-next-line prettier/prettier
     latitude,
     longitude,
     address,
