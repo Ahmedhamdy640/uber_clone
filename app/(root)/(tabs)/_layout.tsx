@@ -43,7 +43,7 @@ const Layout = () => {
           tabBarStyle: {
             backgroundColor: "#333333",
             borderRadius: 50,
-            paddingBottom: 0,
+            paddingBottom: 0, // ios only
             overflow: "hidden",
             marginHorizontal: 20,
             marginBottom: 20,
